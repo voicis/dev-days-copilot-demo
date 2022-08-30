@@ -1,0 +1,19 @@
+{
+  "name": "dev-days-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0",
+    "aws-sdk": "2.1205.0"
+  },
+  "devDependencies": {
+    "jest": "29.0.1"
+  }
+}
